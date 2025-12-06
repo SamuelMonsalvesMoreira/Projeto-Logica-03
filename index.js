@@ -11,6 +11,7 @@ let heroi = {
 
 let ataque;
 
+
 atacarHeroi(heroi);
 
 function atacarHeroi(heroi) {
