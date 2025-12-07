@@ -15,10 +15,10 @@ Sistema orientado a objetos desenvolvido em JavaScript que simula heróis de ave
 
 | Tipo | Ataque |
 |------|--------|
-| 🛡️ Guerreiro | Espada |
-| 🔮 Mago | Magia |
-| 🥋 Monge | Artes Marciais |
-| 🗡️ Ninja | Shuriken |
+| 🛡️ Guerreiro |  Espada |
+| 🔮 Mago |  Magia |
+| 🥋 Monge |  Artes Marciais |
+| 🗡️ Ninja |  Shuriken |
 
 ## 🚀 Como Usar
 
